@@ -68,3 +68,30 @@ footer p {
     text-align: center;
     padding: 50px;
 }
+.resolucion {
+    width: 99%;
+    text-align: center;
+}
+
+/**Movil**/
+
+@media (min-width: 768px) and (max-width: 990px) {
+    .desktop {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
+}
+
+
+/**Escritorio**/
+
+@media (min-width: 991px) {
+    .tablet {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
+}
