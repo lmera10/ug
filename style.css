@@ -109,7 +109,6 @@ body
 {
     color: #fff;
     font-weight: 200;
-    font-size: 100;
 }
 .contactInfo.education li
 {
@@ -123,12 +122,12 @@ body
 .contactInfo.education h4:nth-child(2)
 {
     color: #fff;
-    font-weight: 500;
+    font-weight: 300;
 }
 .contactInfo.education h4
 {
     color: #fff;
-    font-weight: 300;
+    font-weight: 200;
 }
 
 .container .right_Side
