@@ -197,6 +197,10 @@ p
     color: #2a7da2;
     font-size: 16px;
 }
+.about .box .text p
+{
+    text-align: justify;
+}
 .skills .box
 {
     position: relative;
@@ -275,4 +279,8 @@ p
 .skills .box
 {
     grid-template-columns: repeat(1,1fr);
+}
+.justificar
+{
+    text-align: justify;
 }
